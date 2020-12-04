@@ -88,3 +88,20 @@ Write a program that finds the shortest paths between all node pairs in a non-di
           {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 3, 0, 0, 0},
           {0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
           {0, 0, 0, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0},
+          
+# Homework 3
+Write a program that calculates the number of propagation trees in an undirected graph using the Matrix Tree Theorem.
+
+### Output
+Yayılım Ağacı Sayısı: 3
+
+## GRAPH 
+![Homework3_GRAPH](https://graphonline.ru/tmp/saved/mZ/mZouloUIlgEgLNph.png)
+
+## Adjacency Matrix 
+
+                        {0, 0, 0, 1, 1},
+                        {0, 0, 0, 1, 0},
+                        {0, 0, 0, 1, 1},
+                        {1, 1, 1, 0, 0},
+                        {1, 0, 1, 0, 0}
