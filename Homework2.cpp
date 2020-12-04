@@ -7,11 +7,9 @@ using namespace std;
 
 
 /*
-
 MERT AKTAŞ
 171001037
 GRAF TEORİSİ ÖDEV-2
-
 */
 
 
